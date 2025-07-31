@@ -1,6 +1,6 @@
-# 🎯 Exercício Prático: Dashboard Material Design 3
+# 🎯 Exercício Prático: Material Design 3
 
-> **Construa um dashboard moderno e profissional usando Material Design 3, MUI e Next.js com SEO otimizado**
+> **Construa uma página moderna e profissional usando Material Design 3, MUI e Next.js com SEO otimizado**
 
 ![Material Design 3](https://img.shields.io/badge/Material%20Design-3-6750A4?style=for-the-badge&logo=material-design)
 ![Next.js](https://img.shields.io/badge/Next.js-14-000000?style=for-the-badge&logo=next.js)
@@ -209,6 +209,7 @@ ANALYZE=true npm run build
 - [Material Design 3 Guidelines](https://m3.material.io/)
 - [MUI Documentation](https://mui.com/material-ui/)
 - [Next.js 14 Docs](https://nextjs.org/docs)
+- [SEO Google Developers](https://developers.google.com/search/docs/fundamentals/seo-starter-guide?hl=pt-br)
 
 ### **Ferramentas de Design**
 - [Material Theme Builder](https://m3.material.io/theme-builder)
